@@ -3,7 +3,7 @@
 2. Feel free to check the demo app published for quick view.
 
 ## Demo
-![Image of Demo app](https://github.com/Insight-deviler/Web-to-PDF/blob/main/demofile/2021_10_03_18_59_17_trim.mp4)
+![Image of Demo app](https://github.com/Insight-deviler/Web-to-PDF/blob/main/demo/demo_gif_SparkVideo.gif)
 
 ## Usage
 1. Just copy the code from the MainActivity and paste in your project.
